@@ -1,6 +1,8 @@
 # ML-projects
 Sleep Health and lifestyle data analysis
+
 Description
+
 The purpose of this data analysis is to gain insights and understand the factors influencing sleep, health, and lifestyle patterns.
 By analyzing this dataset, I explore the relationships between sleep patterns, health indicators, and lifestyle factors. I analyzed the data using columns like Gender, Age ,Occupation ,Sleep_Duration, Quality_of_Sleep, Physical_Activity_Level, Stress_Level,BMI_Category, Blood_Pressure, Heart_Rate, Daily_Steps and Sleep_Disorder.
 Through descriptive statistics, data visualization, and correlation analysis, we will uncover patterns and trends that can provide valuable insights into the interplay between sleep, health, and lifestyle.
