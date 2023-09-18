@@ -1,4 +1,4 @@
-# ML-projects
+# EDA-projects
 Sleep Health and lifestyle data analysis
 
 Description
